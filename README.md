@@ -1,6 +1,6 @@
 # XHR pet food 
 
-*First upload, will work on it more later*
+*Second upload, will work on it more later unless I actually satisfied with it*
 
 ###Instructions
 1. Create a a format for your dog food JSON file using javascript

@@ -8,15 +8,18 @@
           "volumes": [
             {
               "name": "20oz",
-              "price": 19.99
+              "price": 19.99,
+              "breed": "Siamese"
             },
             {
               "name": "32oz",
-              "price": 26.99
+              "price": 26.99,
+              "breed": "Bengal"
             },
             {
               "name": "64oz",
-              "price": 34.99
+              "price": 34.99,
+              "breed": "ShowShoe"
             }
           ]
         },
@@ -26,11 +29,13 @@
           "volumes": [
             {
               "name": "20oz",
-              "price": 24.99
+              "price": 24.99,
+              "breed": "Munchkin"
             },
             {
               "name": "40oz",
-              "price": 47.99
+              "price": 47.99,
+              "breed": "Tabby"
             }
           ]
         }
@@ -44,11 +49,13 @@
           "volumes": [
             {
               "name": "24oz",
-              "price": 19.99
+              "price": 19.99,
+              "breed": "Manx"
             },
             {
               "name": "48oz",
-              "price": 34.99
+              "price": 34.99,
+              "breed": "Egyptian Mau"
             }
           ]
         },
@@ -57,11 +64,13 @@
           "volumes": [
             {
               "name": "28oz",
-              "price": 22.99
+              "price": 22.99,
+              "breed": "Himalayan"
             },
             {
               "name": "56oz",
-              "price": 40.99
+              "price": 40.99,
+              "breed": "Rag Doll"
             }
           ]
         }

@@ -63,6 +63,7 @@ for (var i=0; i< x.cat_food.length; i++){
 				divData+= "<li>" + x.cat_food[i].types[y].type+ "</li>";
 				divData+= "<li>"+ x.cat_food[i].types[y].volumes[z].name+ "</li>";
 				divData+= "<li>"+ x.cat_food[i].types[y].volumes[z].price+ "</li>";
+				divData+= "<li>"+ x.cat_food[i].types[y].volumes[z].breed+ "</li>";
 				divData+= "</ul>";
 				divData+= "</div>";
 		}	
